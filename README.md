@@ -1,2 +1,2 @@
 # Aplicacao-QUIZ
-Quiz interativo em HTML e javascript, feito como exercicio
+Quiz interativo em HTML e JavaScript, feito como exercício
